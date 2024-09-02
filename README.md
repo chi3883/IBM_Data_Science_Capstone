@@ -4,11 +4,11 @@
 
 ### Shared on GitHub
 
-The most recent version of this document, the presentation and supporting materials can be found at <https://github.com/martinwalsh/ibm-data-science-capstone>.
+The most recent version of this document, the presentation and supporting materials can be found at <https://github.com/chi3883/IBM_Data_Science_Capstone)>.
 
 ### Slides
 
-The most recent version of the [Winning Space Race with Data Science presentation](./WinningSpaceRaceWithDataScience.pdf) can be found here in [PDF](./WinningSpaceRaceWithDataScience.pdf).
+The most recent version of the [Winning Space Race with Data Science presentation](./WinningSpaceRaceWithDataScience.pdf) can be found here in [PDF](.Presentation3.pdf).
 
 
 ### Grading Criteria
