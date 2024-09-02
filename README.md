@@ -8,7 +8,7 @@ The most recent version of this document, the presentation and supporting materi
 
 ### Slides
 
-The most recent version of the [Winning Space Race with Data Science presentation](./WinningSpaceRaceWithDataScience.pdf) can be found here in [PDF](.Presentation3.pdf).
+The most recent version of the [Winning Space Race with Data Science presentation]can be found here in [PDF](./Presentation3.pdf).
 
 
 ### Grading Criteria
