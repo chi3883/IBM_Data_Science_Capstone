@@ -4,7 +4,7 @@
 
 ### Shared on GitHub
 
-The most recent version of this document, the presentation and supporting materials can be found at <https://github.com/chi3883/IBM_Data_Science_Capstone)>.
+The most recent version of this document, the presentation and supporting materials can be found at <https://github.com/chi3883/IBM_Data_Science_Capstone>.
 
 ### Slides
 
